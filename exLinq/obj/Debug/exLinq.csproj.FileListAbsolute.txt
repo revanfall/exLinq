@@ -1,0 +1,6 @@
+C:\Users\Ilya\RiderProjects\exLinq\exLinq\bin\Debug\exLinq.exe
+C:\Users\Ilya\RiderProjects\exLinq\exLinq\bin\Debug\exLinq.pdb
+C:\Users\Ilya\RiderProjects\exLinq\exLinq\obj\Debug\exLinq.csprojAssemblyReference.cache
+C:\Users\Ilya\RiderProjects\exLinq\exLinq\obj\Debug\exLinq.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\RiderProjects\exLinq\exLinq\obj\Debug\exLinq.exe
+C:\Users\Ilya\RiderProjects\exLinq\exLinq\obj\Debug\exLinq.pdb
